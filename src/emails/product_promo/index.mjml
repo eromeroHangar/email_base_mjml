@@ -1,0 +1,37 @@
+<mjml>
+  <mj-head>
+    <mj-font
+      name="Roboto"
+      href="https://fonts.googleapis.com/css2?family=Roboto"
+    />
+    <mj-font
+      name="Roboto Condensed"
+      href="https://fonts.googleapis.com/css2?family=Roboto+Condensed"
+    />
+    <mj-style>
+      @media (max-width:480px) { .mobile div { font-size: 10px !important; }
+      .columnNav { width: 18% !important; } .minImage { min-width: 50px
+      !important; padding: 10px 0 !important; } .mobile-column { width: 33%
+      !important; } .image-product { max-width: 190px !important; }
+      .twocolumnMobile { width: 50% !important; } .twocolumnTitleMobile div {
+      font-size: 15px !important; } .twocolumnCopyMobile div { font-size: 12px
+      !important; } .twocolumnButtonMobile p { font-size: 12px !important; }}
+    </mj-style>
+    <mj-title>Product Promo</mj-title>
+    <mj-preview> Product promo email template </mj-preview>
+  </mj-head>
+  <mj-body background-color="#eee">
+    <mj-include path="./components/preheader.mjml" />
+    <mj-include path="./components/header.mjml" />
+    <mj-include path="./components/hero.mjml" />
+    <mj-include path="./components/products.mjml" />
+    <mj-include path="./components/two-columns.mjml" />
+    <mj-include path="./components/loyalty-banner.mjml" />
+    <mj-section padding="0" background-color="#fff">
+      <mj-column padding="0">
+        <mj-spacer height="100px" />
+      </mj-column>
+    </mj-section>
+    <mj-include path="./components/footer.mjml" />
+  </mj-body>
+</mjml>

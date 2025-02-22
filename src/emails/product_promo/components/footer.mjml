@@ -1,0 +1,28 @@
+<mj-section background-color="#000">
+  <mj-column css-class="mobile-column">
+    <mj-image
+      src="./img/prefooter-1.png"
+      alt="Respect Resources"
+      width="108px"
+    />
+  </mj-column>
+  <mj-column css-class="mobile-column">
+    <mj-image
+      src="./img/prefooter-2.png"
+      alt="Design Out Waste"
+      width="108px"
+    />
+  </mj-column>
+  <mj-column css-class="mobile-column">
+    <mj-image
+      src="./img/prefooter-3.png"
+      alt="Empower Comunity"
+      width="108px"
+    />
+  </mj-column>
+</mj-section>
+<mj-section background-color="#fff">
+  <mj-column>
+    <mj-image src="./img/footer.png" alt="Footer" />
+  </mj-column>
+</mj-section>

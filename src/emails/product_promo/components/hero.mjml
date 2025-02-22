@@ -1,0 +1,17 @@
+<mj-section background-color="#FEC47D">
+  <mj-column>
+    <mj-text font-size="25px" align="center" font-family="times new roman" font-weight="700">
+      NATALIE,</br>DISCOVER YOUR PERSONALIZED SKINCARE ROUTINE
+    </mj-text>
+    <mj-text font-size="14px" align="center" font-family="Roboto" font-weight="400">
+      Over 170 years of skincare expertise has brought us to your inbox.
+      We hope you’re ready to join us on the skincare journey of a lifetime!
+    </mj-text>
+    <mj-spacer height="25px" />
+    <mj-button font-family="Roboto Condensed" font-size="16px" font-weight="700" background-color="#000" color="#fff" href="#" width="189px" height="45px">
+      SHOP NOW
+    </mj-button>
+    <mj-spacer height="43px" />
+    <mj-image src="./img/hero.png" alt="Hero image" padding="0" />
+  </mj-column>
+</mj-section>

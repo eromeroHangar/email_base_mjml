@@ -1,0 +1,12 @@
+<mj-section background-color="#ffffff" padding="15px 0">
+  <mj-column>
+    <mj-text
+      font-family="Roboto"
+      align="center"
+      font-size="10px"
+      color="#000000"
+      >Trouble viewing?
+      <a href="#" style="color: #000">View in browser</a></mj-text
+    >
+  </mj-column>
+</mj-section>

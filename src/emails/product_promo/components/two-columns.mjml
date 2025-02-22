@@ -1,0 +1,85 @@
+<mj-section background-color="#fff">
+  <mj-column>
+    <mj-text
+      font-size="40px"
+      font-family="times new roman"
+      font-weight="700"
+      color="#000"
+      align="center"
+    >
+      DISCOVER THE WORLD OF KIEHL’S
+    </mj-text>
+  </mj-column>
+</mj-section>
+<mj-section background-color="#fff">
+  <mj-column css-class="twocolumnMobile" width="50%">
+    <mj-image src="./img/leftImageColumn1.png" alt="" />
+  </mj-column>
+  <mj-column css-class="twocolumnMobile" width="50%">
+    <mj-text
+      css-class="twocolumnTitleMobile"
+      font-family="times new roman"
+      font-size="30px"
+      font-weight="700"
+    >
+      Healthy skin routine finder
+    </mj-text>
+    <mj-text
+      css-class="twocolumnCopyMobile"
+      font-family="Roboto"
+      font-size="24px"
+      font-weight="400"
+    >
+      Lorem ipsum dolor sit amet, consectetur lorem adipiscing elit sed do
+    </mj-text>
+    <mj-button
+      css-class="twocolumnButtonMobile"
+      align="left"
+      font-family="Roboto Condensed"
+      font-size="24px"
+      font-weight="700"
+      color="#000"
+      background-color="transparent"
+      text-decoration="underline"
+      padding="0"
+    >
+      READ MORE
+    </mj-button>
+  </mj-column>
+</mj-section>
+<mj-section background-color="#fff">
+  <mj-column css-class="twocolumnMobile" width="50%">
+    <mj-image src="./img/leftImageColumn2.png" alt="" />
+  </mj-column>
+  <mj-column css-class="twocolumnMobile" width="50%">
+    <mj-text
+      css-class="twocolumnTitleMobile"
+      font-family="times new roman"
+      font-size="30px"
+      font-weight="700"
+    >
+      Discover our skincare services
+    </mj-text>
+    <mj-text
+      css-class="twocolumnCopyMobile"
+      font-family="Roboto"
+      font-size="24px"
+      font-weight="400"
+    >
+      Lorem ipsum dolor sit amet, consectetur lorem adipiscing elit sed do
+    </mj-text>
+    <mj-button
+      css-class="twocolumnButtonMobile"
+      align="left"
+      font-family="Roboto Condensed"
+      font-size="24px"
+      font-weight="700"
+      color="#000"
+      background-color="transparent"
+      text-decoration="underline"
+      padding="0"
+    >
+      READ MORE
+    </mj-button>
+  </mj-column>
+</mj-section>

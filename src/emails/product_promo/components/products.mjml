@@ -1,0 +1,25 @@
+<mj-section background-color="#fff">
+  <mj-column width="100%">
+    <mj-text
+      font-family="times new roman"
+      font-size="25px"
+      font-weight="700"
+      line-height="25px"
+      align="center"
+    >
+      RECOMMENDED FOR YOUR ROUTINE
+    </mj-text>
+  </mj-column>
+</mj-section>
+<mj-section background-color="#fff">
+  <mj-include path="./product-1.mjml" />
+</mj-section>
+<mj-section background-color="#fff">
+  <mj-include path="./product-2.mjml" />
+</mj-section>
+<mj-section background-color="#fff">
+  <mj-include path="./product-3.mjml" />
+</mj-section>
+<mj-section background-color="#fff">
+  <mj-include path="./product-4.mjml" />
+</mj-section>

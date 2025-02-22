@@ -1,0 +1,7 @@
+<mj-section background-color="#f0f0f0">
+  <mj-column>
+    <mj-text font-style="italic" font-size="20px" color="#626262"
+      >My Company</mj-text
+    >
+  </mj-column>
+</mj-section>

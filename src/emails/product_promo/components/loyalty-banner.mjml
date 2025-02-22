@@ -1,0 +1,44 @@
+<mj-hero
+  mode="fluid-height"
+  background-width="600px"
+  background-height="724px"
+  background-url="./img/louyaltyBannerBG.png"
+  background-color="#000"
+  padding="0px"
+  vertical-align="middle"
+>
+  <mj-image src="./img/kielh-logo.png" alt="Kielh Logo" width="158px" />
+  <mj-text
+    color="#ffffff"
+    font-family="times"
+    align="center"
+    font-size="25px"
+    line-height="28px"
+    font-weight="700"
+  >
+    GET MORE WITH</br>KIEHL’S REWARDS
+  </mj-text>
+  <mj-text
+    font-family="Roboto"
+    font-weight="400"
+    font-size="14px"
+    align="center"
+    line-height="22px"
+    color="#fff"
+  >
+    Join the Kiehl’s Family rewards and enjoy a</br>birthday gift. Earn points
+    towards purchases</br>and gain access to product launches.
+  </mj-text>
+  <mj-button
+    href="#"
+    align="center"
+    color="#fff"
+    background-color="transparent"
+    font-family="Roboto Condensed"
+    font-size="16px"
+    line-height="23px"
+    text-decoration="underline"
+  >
+    JOIN NOW
+  </mj-button>
+</mj-hero>

@@ -1,0 +1,65 @@
+<mj-section background-color="#000">
+  <mj-column css-class="columnNav" width="20%" vertical-align="middle">
+    <mj-image css-class="minImage" src="./img/logo.png" alt="Kielh Logo" />
+  </mj-column>
+  <mj-column css-class="columnNav" width="20%" vertical-align="middle">
+    <mj-text
+      font-family="Roboto Condensed"
+      font-size="20px"
+      font-weight="700"
+      color="#fff"
+      padding="0"
+      text-transform="uppercase"
+      align="center"
+      letter-spacing="-0.3px"
+      css-class="mobile"
+    >
+      BEST SELLERS
+    </mj-text>
+  </mj-column>
+  <mj-column css-class="columnNav" width="20%" vertical-align="middle">
+    <mj-text
+      font-family="Roboto Condensed"
+      font-size="20px"
+      font-weight="700"
+      color="#fff"
+      padding="0"
+      text-transform="uppercase"
+      align="center"
+      letter-spacing="-0.3px"
+      css-class="mobile"
+    >
+      skin care
+    </mj-text>
+  </mj-column>
+  <mj-column css-class="columnNav" width="20%" vertical-align="middle">
+    <mj-text
+      font-family="Roboto Condensed"
+      font-size="20px"
+      font-weight="700"
+      color="#fff"
+      padding="0"
+      text-transform="uppercase"
+      align="center"
+      letter-spacing="-0.3px"
+      css-class="mobile"
+    >
+      OFFERS
+    </mj-text>
+  </mj-column>
+  <mj-column css-class="columnNav" width="20%" vertical-align="middle">
+    <mj-text
+      font-family="Roboto Condensed"
+      font-size="20px"
+      font-weight="700"
+      color="#fff"
+      padding="0"
+      text-transform="uppercase"
+      align="center"
+      letter-spacing="-0.3px"
+      css-class="mobile"
+    >
+      SERVICES
+    </mj-text>
+  </mj-column>
+</mj-section>
