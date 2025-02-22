@@ -1,0 +1,7 @@
+{
+  "puglint.enable": true,
+  "puglint.run": "onSave",
+  "puglint.config": {
+    "requireClassLiteralsBeforeIdLiterals": true
+  }
+}
